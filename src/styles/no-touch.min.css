@@ -106,9 +106,6 @@ button:focus {
   background-size: contain;
   background-repeat: no-repeat;
 }
-.Photo.inverse-dark {
-  background-color: #000;
-}
 .about-text {
   width: 80%;
   padding: 2%;

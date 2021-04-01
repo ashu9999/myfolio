@@ -14,7 +14,7 @@ const Contact = () => {
                 <div className="container">
             <div className="git-cont row">
                 <div className="col-12 col-sm-6 half">
-                    <form action={contact.contactUrl ? contact.contactUrl : "https://form.jotform.com/210866417557463"} method={contact.contactUrl ? "POST" : "GET"}>
+                    <form action={contact.contactUrl ? contact.contactUrl : ""} method={contact.contactUrl ? "POST" : "GET"}>
                         <input type="text" id="fname" name="firstname" placeholder="Your name" required></input>
                         <input type="mail" id="mailid" name="Email" placeholder="Email Address" required></input>
                         <input type="text" id="sub" name="Subject" placeholder="Subject" required></input>

@@ -78,9 +78,9 @@ const projects = [
     {
         // Add image in './styles/images.css' in #project2
         id: "project2",
-        name: "DR Notes",
-        skills: ["HTML, CSS, JS, Django, Reactjs"],
-        url: "https://github.com/ashu9999/DR-NOTES"
+        name: "React Notes",
+        skills: ["HTML, CSS, Reactjs"],
+        url: "https://ashu9999.github.io/react-notes-app"
     },
     {
         // Add image in './styles/images.css' in #project6
